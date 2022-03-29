@@ -1,0 +1,40 @@
+{
+  "name": "linkedin-notif-slack",
+  "version": "0.0.1",
+  "private": false,
+  "description": "Forward LinkedIn notifications to Slack channels",
+  "keywords": [
+    "javascript",
+    "nodejs",
+    "linkedin",
+    "slack",
+    "notification",
+    "api",
+    "webhook",
+    "channel"
+  ],
+  "author": {
+    "name": "cednore",
+    "email": "cednore@gmail.com"
+  },
+  "contributors": [],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cednore/linkedin-notif-slack.git"
+  },
+  "homepage": "https://github.com/cednore/linkedin-notif-slack#readme",
+  "bugs": {
+    "url": "https://github.com/cednore/linkedin-notif-slack/issues"
+  },
+  "engines": {
+    "node": ">= 14.0.0",
+    "npm": ">= 6.0.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
